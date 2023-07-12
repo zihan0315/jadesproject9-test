@@ -1,0 +1,20 @@
+---
+---
+{
+    "label": "\u6c38\u5bff\u5bab",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://zihan0315.github.io/Try_Wax_Website/annotations/k1c001668n000000000paa-list.json'></iiif-storyboard>",
+            "title": "Jade020",
+            "description": "",
+            "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://zihan0315.github.io/Try_Wax_Website/annotations/k1c001665n000000000paa-list.json'></iiif-storyboard>",
+            "title": "Jade065",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
