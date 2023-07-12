@@ -1,0 +1,45 @@
+---
+canvas: "https://digitalarchive.npm.gov.tw/Canvas/K1C001665N000000000PAA"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u6c38\u5bff\u5bab",
+            "purpose": "identifying",
+            "creator": {
+                "id": "zihan0315",
+                "name": "Zihan Feng"
+            },
+            "created": "2023-07-03T17:06:52.069Z",
+            "modified": "2023-07-03T17:06:55.722Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "FC_Palace",
+            "creator": {
+                "id": "zihan0315",
+                "name": "Zihan Feng"
+            },
+            "created": "2023-07-03T17:06:58.701Z"
+        }
+    ],
+    "target": {
+        "source": "https://digitalarchive.npm.gov.tw/Canvas/K1C001665N000000000PAA",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=160.33285522460938,347.0271301269531,2578.8253479003906,1652.3584899902344"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digitalarchive.npm.gov.tw/Antique/setJsonU?uid=49771&Dept=U",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1e6c2aca-6574-4b03-9132-582c635ac277.json",
+    "motivation": "commenting"
+}
