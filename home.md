@@ -1,7 +1,3 @@
-layout: page
-title: "The Qing Emperor's Hindustan Jades"
-permalink: https://project-kleutghen.github.io/jadesproject9/home
-
 # This is a heading
 
 ## Here's a smaller heading
